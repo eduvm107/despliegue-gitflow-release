@@ -1,6 +1,6 @@
 {
   "name": "proyecto-app",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Proyecto de ejemplo para el ejercicio de Git Flow, versionado y releases - Despliegue de Aplicaciones",
   "main": "src/greet.js",
   "bin": {
