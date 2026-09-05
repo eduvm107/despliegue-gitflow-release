@@ -1,4 +1,4 @@
-# proyecto-app
+# proyecto-app - Version B
 
 Proyecto Node.js mínimo usado como caso práctico para el ejercicio de la
 **Semana 2** del curso *Despliegue de Aplicaciones*. Sirve para poner en
